@@ -1,0 +1,10 @@
+name=•M–nƒNƒ~ ~ Chinese
+Voicebank Language: Chinese
+Creation Date: 12/6/2016
+Character Age: N/A
+Gender: Female (She/They)
+Height: 5'5''ft (165.1cm)
+Weight: N/A
+Creator: Cubialpha
+Icon Artwork: @itporl
+image=image.bmp
