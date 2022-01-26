@@ -13,7 +13,7 @@ If you like this voicebank, please give her a star.
 If you find a bug, please [create an issue](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn/issues/new) to report it.
 
 ## Why this project?
-In hitsuboku Kumi chinese voicebank, voices of different pitches are recorded into one file, which prevents moresampler from correctly calculate the fundamental frequency. Here I split the audio files into different pitches.
+In hitsuboku Kumi chinese voicebank, voices of different pitches are recorded into one file, which prevents moresampler from correctly calculating the fundamental frequency. Here I split the audio files into different pitches.
 
 ## Tech Specs
 - 4 pitches (A3, D4, A4, D5)
